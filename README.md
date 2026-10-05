@@ -1,5 +1,7 @@
 # leetcode-solutions
 
+## Contents
+```
 ├── README.md                 # Main dashboard and tracking table
 ├── Arrays-&-Hashing/         # Two Sum, Valid Anagram, Group Anagrams
 ├── Two-Pointers/             # Valid Palindrome, Two Sum II, 3Sum
@@ -18,3 +20,4 @@
 ├── Intervals/                # Insert Interval, Merge Intervals, Meeting Rooms
 ├── Math-&-Geometry/          # Rotate Image, Spiral Matrix, Pow(x, n)
 └── Bit-Manipulation/         # Single Number, Number of 1 Bits, Counting Bits
+```
